@@ -1,4 +1,4 @@
-# Amazon Lex Chat Bot
+# Amazon Lex Appoinment Bot
 
 ## Additional Information
 
@@ -19,6 +19,7 @@
 - Others
 
 ![alt text](S3_Bucket.jpg)
+
 ![alt text](S3_Bucket_Overall.jpg)
 
 
